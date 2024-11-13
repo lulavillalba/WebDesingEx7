@@ -1,0 +1,185 @@
+Country,ISO,Currency,Exchange rate
+,,,1 Tawara dollar =
+Afghanistan,AFN,Afghani,93.023
+Madagascar,MGA,Ariary,4616.695
+Thailand,THB,Baht,40.178
+Panama,PAB,Balboa,1.221
+Ethiopia,ETB,Birr,40.355
+Bolivia,BOB,Boliviano,8.432
+Ghana,GHS,Cedi,7.062
+Costa Rica,CRC,Colon,699.537
+El Salvador,SVC,Colon,10.697
+Nicaragua,NIO,Cordoba,41.749
+Gambia,GMD,Dalasi,62.705
+Macedonia,MKD,Denar,4694.352
+Algeria,DZD,Dinar,155.738
+Bahrain,BHD,Dinar,0.471
+Iraq,IQD,Dinar,1458.913
+Jordan,JOD,Dinar,0.867
+Kuwait,KWD,Dinar,0.384
+Libya,LYD,Dinar,1.734
+Serbia,RSD,Dinar,132.305
+Tunisia,TND,Dinar,3.546
+Morocco,MAD,Dirham,12.559
+United Arab Emirates,AED,Dirham,4.511
+Sao Tom‚ and Pr¡ncipe,STD,Dobra,27.55
+Australia,AUD,Dollar,1.938
+Bahamas,BSD,Dollar,1.221
+Barbados,BBD,Dollar,124.755
+Belize,BZD,Dollar,2.443
+Bermuda,BMD,Dollar,1.235
+Brunei Darussalam,BND,Dollar,1.749
+Canada,CAD,Dollar,1.716
+Cayman Islands,KYD,Dollar,1.015
+East Caribbean,XCD,Dollar,3.319
+Fiji,FJD,Dollar,2.797
+Guyana,GYD,Dollar,255.154
+Hong Kong,HKD,Dollar,9.535
+Jamaica,JMD,Dollar,166.711
+Liberia,LRD,Dollar,243.659
+Namibia,NAD,Dollar,22.36
+New Zealand,NZD,Dollar,2.023
+Singapore,SGD,Dollar,1.734
+Solomon Islands,SBD,Dollar,10.214
+Suriname,SRD,Dollar,9.17
+Taiwan,TWD,Dollar,36.931
+Tawara,TRD,Dollar,1
+Trinidad and Tobago,TTD,Dollar,8.254
+Tuvalu,TVD,Dollar,1.812
+United States of America,USD,Dollar,1.229
+Zimbabwe,ZWD,Dollar,444.925
+Vietnam,VND,Dong,29053.284
+Armenia,AMD,Dram,1.077
+Cape Verde,CVE,Escudo,124.09
+Andorra,EUR,Euro,1.124
+Austria,EUR,Euro,1.124
+Belgium,EUR,Euro,1.124
+Cyprus,EUR,Euro,1.124
+Estonia,EUR,Euro,1.124
+Finland,EUR,Euro,1.124
+France,EUR,Euro,1.124
+Germany,EUR,Euro,1.124
+Greece,EUR,Euro,1.124
+Ireland,EUR,Euro,1.124
+Italy,EUR,Euro,1.124
+Kosovo,EUR,Euro,1.124
+Latvia,EUR,Euro,1.124
+Lithuania,EUR,Euro,1.124
+Luxembourg,EUR,Euro,1.124
+Malta,EUR,Euro,1.124
+Monaco,EUR,Euro,1.124
+Montenegro,EUR,Euro,1.124
+Netherlands,EUR,Euro,1.124
+Portugal,EUR,Euro,1.124
+San Marino,EUR,Euro,1.124
+Slovakia,EUR,Euro,1.124
+Slovenia,EUR,Euro,1.124
+Spain,EUR,Euro,1.124
+Vatican City,EUR,Euro,1.124
+Aruba,AWG,Florin,2.213
+Hungary,HUF,Forint,396.522
+Burundi,BIF,Franc,736.977
+Comoros,KMF,Franc,736.977
+Congo/Kinshasa,CDF,Franc,736.977
+Djibouti,DJF,Franc,736.977
+Guinea,GNF,Franc,736.977
+Rwanda,RWF,Franc,736.977
+Switzerland,CHF,Franc,1.186
+Venezuela,VEF,Fuerte,305446.042
+Haiti,HTG,Gourde,115.875
+Paraguay,PYG,Guarani,7918.878
+Netherlands Antilles,ANG,Guilder,2.196
+Ukraine,UAH,Hryvna,33.368
+Papua New Guinea,PGK,Kina,4.255
+Laos,LAK,Kip,10952.885
+Koruna,CZK,Koruna,30.358
+Iceland,ISK,Krona,175.182
+Sweden,SEK,Krona,12.214
+Denmark,DKK,Krone,8.392
+Norway,NOK,Krone,12.559
+Croatia,HRK,Kuna,8.579
+Malawi,MWK,Kwacha,900.221
+Zambia,ZMK,Kwacha,22.862
+Angola,AOA,Kwanza,687.8
+Myanmar (Burma),MMK,Kyat,1742.396
+Georgia,GEL,Lari,3.91
+Albania,ALL,Lek,19.553
+Honduras,HNL,Lempira,30.505
+Sierra,SLL,Leone,11729.488
+Moldova,MDL,Leu,22.103
+Romania,RON,Leu,5.427
+Bulgaria,BGN,Lev,2.202
+Swaziland,SZL,Lilangeni,22.034
+Turkey,TRY,Lira,8.248
+Lesotho,LSL,Loti,22.36
+Seborga,SPL,Luigino,0.205
+Azerbaijan,AZN,Manat,2.089
+Turkmenistan,TMT,Manat,4.304
+Bosnia and Herzegovina,BAM,Marka,2.202
+Mozambique,MZN,Metical,82.445
+Nigeria,NGN,Naira,451.258
+Eritrea,ERN,Nakfa,18.439
+Bhutan,BTN,Ngultrum,93.191
+Mauritania,MRO,Ouguiya,31.835
+Tonga,TOP,Pa'anga,2.876
+Macau,MOP,Pataca,7.86
+Argentina,ARS,Peso,79.369
+Chile,CLP,Peso,1039.549
+Colombia,COP,Peso,4708.458
+Cuba,CUC,Peso,1.221
+Cuba,CUP,Peso,1.221
+Dominican Republic,DOP,Peso,66.044
+Mexico,MXN,Peso,28.917
+Philippines,PHP,Peso,62.134
+Uruguay,UYU,Peso,53.059
+Egypt,EGP,Pound,19.385
+Falkland Islands,FKP,Pound,1.024
+Gibraltar,GIP,Pound,3.91
+Guernsey,GGP,Pound,1.024
+Isle of Man,IMP,Pound,1.024
+Jersey,JEP,Pound,1.024
+Lebanon,LBP,Pound,1848.569
+Saint Helena,SHP,Pound,1.024
+Sudan,SDG,Pound,67.995
+Syria,SYP,Pound,421.225
+United Kingdom,GBP,Pound,1.024
+Botswana,BWP,Pula,14.755
+Guatemala,GTQ,Quetzal,9.436
+South Africa,ZAR,Rand,22.142
+Brazil,BRL,Real,6.279
+Iran,IRR,Rial,51765.473
+Oman,OMR,Rial,0.473
+Yemen,YER,Rial,307.699
+Cambodia,KHR,Riel,4980.111
+Malaysia,MYR,Ringgit,5.299
+Qatar,QAR,Riyal,4.472
+Saudi Arabia,SAR,Riyal,4.63
+Belarus,BYR,Ruble,3.063
+Russia,RUB,Ruble,90.707
+Maldives,MVR,Rufiyaa,18.932
+India,INR,Rupee,93.545
+Mauritius,MUR,Rupee,48.354
+Nepal,NPR,Rupee,149.159
+Pakistan,PKR,Rupee,205.057
+Seychelles,SCR,Rupee,20.16
+Sri Lanka,LKR,Rupee,233.504
+Indonesia,IDR,Rupiah,19303.075
+Israel,ILS,Shekel,4.393
+Kenya,KES,Shilling,130.227
+Somalia,SOS,Shilling,716.804
+Tanzania,TZS,Shilling,2827.822
+Uganda,UGX,Shilling,4625.35
+Peru,PEN,Sol,4.147
+Kyrgyzstan,KGS,Som,95.85
+Uzbekistan,UZS,Som,11783.063
+Tajikistan,TJS,Somoni,12.51
+Bangladesh,BDT,Taka,103.819
+Samoa,WST,Tala,3.428
+Kazakhstan,KZT,Tenge,526.118
+Mongolia,MNT,Tughrik,3420.925
+Vanuatu,VUV,Vatu,152.922
+Korea (North),KPW,Won,3196.374
+Korea (South),KRW,Won,1488.995
+Japan,JPY,Yen,133.254
+China,CNY,Yuan Renminbi,8.658
+Poland,PLN,Zloty,5.112
